@@ -1,5 +1,6 @@
 # 👋Hi, I'm Alejandro C📸💻
-![GIF](https://media.tenor.com/yRSnf6wABQ4AAAAi/pato-duck.gif)
+![GIF_1](https://media1.tenor.com/m/G9qmH_P1nbsAAAAd/angry-angry-cat.gif)
+<!--![GIF](https://media.tenor.com/yRSnf6wABQ4AAAAi/pato-duck.gif)-->
 <!-- GIF de Kirby ![GIF](https://pa1.aminoapps.com/6857/a5b282484ce532feb33f472650e023ac4d1f429a_hq.gif)-->
 ## About me
 <p> 
